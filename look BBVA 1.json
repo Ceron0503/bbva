@@ -279,8 +279,8 @@
     {
       "item": "image_watermark",
       "value": "image_watermark",
-      "url": "",
-      "enable": false
+      "url": "https://raw.githubusercontent.com/Ceron0503/L-F-BBVA-marca-de-agua/refs/heads/main/BBVA%20transparanciañ.PNG",
+      "enable": true
     }
   ],
   "custom_animations_enable": false,
