@@ -273,13 +273,13 @@
     {
       "item": "image_ticket_stripe",
       "value": "image_stripe",
-      "url": "",
-      "enable": false
+      "url": "https://raw.githubusercontent.com/Ceron0503/BBVA-nueva-/refs/heads/main/CintilloBBVA.png",
+      "enable": true
     },
     {
       "item": "image_watermark",
       "value": "image_watermark",
-      "url": "https://raw.githubusercontent.com/Ceron0503/L-F-BBVA-marca-de-agua/refs/heads/main/BBVA%20transparanciañ.PNG",
+      "url": "https://raw.githubusercontent.com/Ceron0503/BBVA-nueva-/refs/heads/main/Watermark__BBV.png",
       "enable": true
     }
   ],
